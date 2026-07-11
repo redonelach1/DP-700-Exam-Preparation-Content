@@ -86,6 +86,14 @@ The vault is divided into 11 core topics, logically categorized into the 3 Main 
 
 ---
 
+## 🔗 References & Resources
+The content in this study guide was compiled using the following excellent resources:
+- [DP-700 Exam Prep Video by Will Needham (YouTube)](https://www.youtube.com/watch?v=KiB4eAeFRsw)
+- [Microsoft Learn: Official Fabric Documentation](https://learn.microsoft.com/en-us/fabric/)
+- [Microsoft Official DP-700 Exam Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700)
+
+---
+
 ## 🤝 Support & Contribution
 If you found this study guide helpful in passing your DP-700 exam, please consider giving the repository a ⭐ **Star** on GitHub! 
 
